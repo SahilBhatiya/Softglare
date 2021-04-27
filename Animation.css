@@ -33,11 +33,25 @@ body {
 
 @media only screen and (max-width: 768px) {
     #Softglare {
-        zoom: 95%;
+        width: 80%;
         position: absolute;
-        top: 55%;
-        left: -70px;
+        top: 20%;
         overflow: visible;
+    }
+    #WeAreWorking {
+        text-align: center;
+        top: 10%!important;
+    }
+    #ContactUs {
+        text-align: center;
+        top: 30%!important;
+        max-width: 90%;
+    }
+    #Email {
+        margin-top: 20px;
+    }
+    #submit-btn {
+        margin-top: 20px;
     }
 }
 
